@@ -8,5 +8,7 @@ public class GitTest {
         System.out.println("hello git 4~");
 
         System.out.println("Master Code Going on...");
+
+        System.out.println("Hot Fix Test!");
     }
 }
